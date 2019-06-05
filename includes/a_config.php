@@ -8,8 +8,12 @@
 			$CURRENT_PAGE = "Contact"; 
 			$PAGE_TITLE = "Contact Us";
 			break;
+		case "/php-template/rates.php":
+			$CURRENT_PAGE = "Rates"; 
+			$PAGE_TITLE = "Rates";
+			break;
 		default:
 			$CURRENT_PAGE = "Index";
-			$PAGE_TITLE = "Welcome to my homepage!";
+			$PAGE_TITLE = "Comfort Rides Fleet";
 	}
 ?>
