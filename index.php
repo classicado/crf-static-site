@@ -21,21 +21,21 @@
       <!-- Slide One - Set the background image for this slide in the line below -->
       <div class="carousel-item active" style="background-image: url('https://source.unsplash.com/LAaSoL0LrYs/1920x1080')">
         <div class="carousel-caption d-none d-md-block">
-          <h2 class="display-4">First Slide</h2>
-          <p class="lead">This is a description for the first slide.</p>
+          <h2 class="display-4 wow fadeInLeftBig">First Slide</h2>
+          <p class="lead wow fadeInRightBig">This is a description for the first slide.</p>
         </div>
       </div>
       <!-- Slide Two - Set the background image for this slide in the line below -->
       <div class="carousel-item" style="background-image: url('https://source.unsplash.com/bF2vsubyHcQ/1920x1080')">
         <div class="carousel-caption d-none d-md-block">
-          <h2 class="display-4">Second Slide</h2>
+          <h2 class="display-4 wow fadeInLeftBig">Second Slide</h2>
           <p class="lead">This is a description for the second slide.</p>
         </div>
       </div>
       <!-- Slide Three - Set the background image for this slide in the line below -->
       <div class="carousel-item" style="background-image: url('https://source.unsplash.com/szFUQoyvrxM/1920x1080')">
         <div class="carousel-caption d-none d-md-block">
-          <h2 class="display-4">Third Slide</h2>
+          <h2 class="display-4 wow fadeInLeftBig">Third Slide</h2>
           <p class="lead">This is a description for the third slide.</p>
         </div>
       </div>
@@ -52,7 +52,7 @@
 </header>
 
 
-
+<!-- 
 <div class="container" id="main-content">
 	<h2>Welcome to my website!</h2>
 	<p>We offer transport needs of businesses, sport clubs, lodges as well as individuals and families.</p>
@@ -66,7 +66,7 @@
 </div>
 
 
-
+ -->
 
 
 
