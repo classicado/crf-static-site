@@ -13,9 +13,12 @@
 		        		<div class="col-md-4 offset-md-1 footer-contact wow fadeInDown">
 		        			<h3>Contact</h3>
 		                	<p><i class="fas fa-map-marker-alt"></i> Pretoria CBD</p>
-		                	<p><i class="fas fa-phone"></i> Phone: (0039) 333 12 68 347</p>
-		                	<p><i class="fas fa-envelope"></i> Email: <a href="mailto:hello@domain.com">info@comfortridesfleet.com</a></p>
-		                	<p><i class="fab fa-skype"></i> Skype: you_online</p>
+		                	<p><i class="fas fa-phone"></i> Phone: +27 64 213 1719</p>
+		                	<p><i class="fas fa-envelope"></i> Bookings: <a href="mailto:reservations@comfortridesfleet.com" class="small">reservations@comfortridesfleet.com</a></p>
+		                	<p><i class="fas fa-envelope"></i> Quotes: <a href="mailto:quotes@comfortridesfleet.com">quotes@comfortridesfleet.com</a></p>
+		                	<p><i class="fas fa-envelope"></i> Info: <a href="mailto:info@comfortridesfleet.com">info@comfortridesfleet.com</a></p>
+		                	<!-- <p><i class="fab fa-skype"></i> Skype: you_online</p> -->
+
 	                    </div>
 	                    <div class="col-md-4 footer-links wow fadeInUp">
 	                    	<div class="row">
