@@ -28,14 +28,10 @@
 	                    	</div>
 	                    	<div class="row">
 	                    		<div class="col-md-6">
-	                    			<p><a class="scroll-link" href="#top-content">Home</a></p>
-	                    			<p><a href="#">Features</a></p>
-	                    			<p><a href="#">How it works</a></p>
+	                    			<p><a class="scroll-link" href="">Home</a></p> 
 	                    			<p><a href="#">Our clients</a></p>
 	                    		</div>
-	                    		<div class="col-md-6">
-	                    			<p><a href="#">Plans &amp; pricing</a></p>
-	                    			<p><a href="#">Affiliates</a></p>
+	                    		<div class="col-md-6"> 
 	                    			<p><a href="#">Terms</a></p>
 	                    		</div>
 	                    	</div>

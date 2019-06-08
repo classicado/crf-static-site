@@ -19,7 +19,7 @@
     </ol>
     <div class="carousel-inner" role="listbox">
       <!-- Slide One - Set the background image for this slide in the line below -->
-      <div class="carousel-item active" style="background-image: url('https://source.unsplash.com/LAaSoL0LrYs/1920x400')">
+      <div class="carousel-item active" style="background-image: url('./images/Ford_Focus.png')">
         <div class="carousel-caption d-none d-md-block">
           <h2 class="display-4 wow fadeInLeftBig">First Slide</h2>
           <p class="lead wow fadeInRightBig">This is a description for the first slide.</p>
@@ -159,10 +159,13 @@ We have economy sedan cars with highly affordable rates. You do not need to hire
 	        <div class="container">
 	            <div class="row">
 	                <div class="col section-4 section-description wow fadeInLeftBig">
-	                	<h2>Section 4</h2>
-	                    <p>
-	                    	Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut 
-	                    	aliquip ex ea commodo consequat. Ut wisi enim ad minim veniam, quis nostrud.
+	                	<h2>Why Comfort Rides Fleet</h2>
+	                    <p class="text-left">
+	                    	Operates 24 hours a day <br>
+	                    	We are a Level 1 BBBEEE company. <br>
+	                    	All the drivers have PrdP’s as required by law.<br> 
+	                    	Friedly and professional drivers <br>
+	                    	 
 	                    </p>
 	                </div>
 	            </div>
