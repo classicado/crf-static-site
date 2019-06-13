@@ -12,11 +12,14 @@
 	    <a class="nav-link <?php if ($CURRENT_PAGE == "Index") {?>active<?php }?>" href="index.php">Home</a>
 	  </li>
 	  <li class="nav-item">
-	    <a class="nav-link <?php if ($CURRENT_PAGE == "Rates") {?>active<?php }?>" href="rates.php">Rates</a>
+	    <a class="nav-link <?php if ($CURRENT_PAGE == "Fixed Rates") {?>active<?php }?>" href="rates.php">Fixed Rates</a>
 	  </li>
-	   <li class="nav-item">
+    <li class="nav-item">
+      <a class="nav-link <?php if ($CURRENT_PAGE == "Dynamic Rates") {?>active<?php }?>" href="dynamic-rates.php">Dynamic Rates</a>
+    </li>     
+	  <li class="nav-item">
 	    <a class="nav-link <?php if ($CURRENT_PAGE == "About") {?>active<?php }?>" href="about.php">About Us</a>
-	  </li> 
+	  </li>  
     <!-- <li class="nav-item">
       <a class="nav-link <?php if ($CURRENT_PAGE == "terms-and-conditions") {?>active<?php }?>" href="terms-and-conditions.php">Terms and Conditions</a>
     </li>  -->   
