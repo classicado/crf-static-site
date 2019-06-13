@@ -14,31 +14,33 @@
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+     <!--  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li> -->
     </ol>
     <div class="carousel-inner" role="listbox">
       <!-- Slide One - Set the background image for this slide in the line below -->
       <div class="carousel-item active" style="background-image: url('./images/Ford_Focus.png')">
         <div class="carousel-caption d-none d-md-block">
-          <h2 class="display-4 wow fadeInLeftBig">First Slide</h2>
-          <p class="lead wow fadeInRightBig">This is a description for the first slide.</p>
+          <h2 class="display-4 wow fadeInLeftBig">Point To Point</h2>
+          <p class="lead wow fadeInRightBig">
+          	We take care of our customers throughout their journey with us. From the ease of booking to timely pick up and drop off at your chosen destination in absolute comfort, style and with peace of mind. 
+          </p>
         </div>
       </div>
       <!-- Slide Two - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url('https://source.unsplash.com/bF2vsubyHcQ/1920x400')">
+     <!--  <div class="carousel-item" style="background-image: url('https://source.unsplash.com/bF2vsubyHcQ/1920x400')">
         <div class="carousel-caption d-none d-md-block">
           <h2 class="display-4 wow fadeInLeftBig">Second Slide</h2>
           <p class="lead">This is a description for the second slide.</p>
         </div>
-      </div>
+      </div> -->
       <!-- Slide Three - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url('https://source.unsplash.com/szFUQoyvrxM/1920x400')">
+      <!-- <div class="carousel-item" style="background-image: url('https://source.unsplash.com/szFUQoyvrxM/1920x400')">
         <div class="carousel-caption d-none d-md-block">
           <h2 class="display-4 wow fadeInLeftBig">Third Slide</h2>
           <p class="lead">This is a description for the third slide.</p>
         </div>
-      </div>
+      </div> -->
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -94,7 +96,7 @@
 	                			<h3>Airport Transportation</h3>
 		                    	<p>
 		                    		We are proud to offer best to and from airport services. We constantly monitor our customer’s flights to make it sure that in case of flight delay or early arrival, our driver picks or drops you on time. 
-		                    		At CRF, we assure you of getting finest transportation service that picks you from your home, hotel or office and drops you off at the airport, in new cars with the comfortable ride you need. We serve Dallas area especially DFW Airport and Love Field Airport.
+		                    		At CRF, we assure you of getting finest transportation service that picks you from your home, hotel or office and drops you off at the airport, in new cars with the comfortable ride you need.
 		                    	</p>
 	                		</div>
 	                	</div>
@@ -109,7 +111,7 @@
 	                		<div class="col-md-9">
 	                			<h3>Sporting Events & Concerts</h3>
 		                    	<p>
-		                    		CRF has the right cars for transportation to local sports games in Dallas-Fort Worth. We offer chauffeured SUV and Limo service to get you to the game and bring back in new luxury fleet.
+		                    		CRF has the right cars for transportation to local sports games in Gauteng Worth. We offer chauffeured sedan, suv and taxi service to get you to the game and bring back in a luxury fleet.
 		                    	</p>
 	                		</div>
 	                	</div>
@@ -127,7 +129,7 @@
 	                		<div class="col-md-9">
 	                			<h3>Corporate Services</h3>
 		                    	<p>
-		                    		Are you are a business person? Do you need a reliable vehicle service to for your business? Our corporate car service to and from airport and other areas in DFW is the best choice in town. Our corporate cars offer corporate class facilities and comfortWe make sure that only the latest models of cars are used for the corporate rentals to make sure that your personality is enhanced and improved by the addition of a luxury vehicle. Book online now with the choices of Luxury sedan & SUVs.
+		                    		Are you are a business person? Do you need a reliable vehicle service to for your business? Our corporate car service to and from airport and other areas in CRF is the best choice in town. Our corporate cars offer corporate class facilities and comfortWe make sure that only the latest models of cars are used for the corporate rentals to make sure that your personality is enhanced and improved by the addition of a luxury vehicle. Book online now with the choices of Luxury sedan & SUVs.
 		                    	</p>
 	                		</div>
 	                	</div>
@@ -142,9 +144,9 @@
 	                		<div class="col-md-9">
 	                			<h3>CRF Taxi & Shuttle Service</h3>
 		                    	<p>
-		                    		DFW car Service Company provides reliable DFW airport transportation & airport taxi service using the brand new sedan and SUV cars to give you the unique transportation experience at unbeatable rates.
+		                    		We provides reliable  airport transportation & airport taxi service using the brand new sedan and SUV cars to give you the unique transportation experience at unbeatable rates.
 
-We have economy sedan cars with highly affordable rates. You do not need to hire taxi or cab service as your ride to or from airport when you can hire our luxury and econo cars. Book online now for best ride at cheapest rates.
+We have economy sedan cars with highly affordable rates. You do not need to hire taxi or cab service as your ride to or from airport when you can hire our luxury and econo cars. Book now for best ride at cheapest rates.
 		                    	</p>
 	                		</div>
 	                	</div>
