@@ -98,1266 +98,1269 @@
     <td class="tg-0pky"> 1-13 Passengers</td>
   </tr>
   </thead>
+
+ 
   <tr>
-    <td class="tg-0pky">OR Airport Transfers</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 1000.00</td>
+    <td>OR Airport Transfers</td>
+    <td>R 500.00</td>
+    <td>R 600.00</td>
+    <td>R 750.00</td>
+    <td>R 1000.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Akasia</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Akasia</td>
+    <td>R 250.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Alberton</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 1132.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Alberton</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 1132.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Apartheid Museum</td>
-    <td class="tg-0pky">R 830.00</td>
-    <td class="tg-0pky">R 830.00</td>
-    <td class="tg-0pky">R 820.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Apartheid Museum</td>
+    <td>R 780.00</td>
+    <td>R 830.00</td>
+    <td>R 820.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Arcadia</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Arcadia</td>
+    <td>R 150.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Auckland Park</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Auckland Park</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Bedfordview</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Bedfordview</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Benoni</td>
-    <td class="tg-0pky">R 670.00</td>
-    <td class="tg-0pky">R 670.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 900.00</td>
+    <td>Benoni</td>
+    <td>R 670.00</td>
+    <td>R 670.00</td>
+    <td>R 750.00</td>
+    <td>R 900.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Blue Train</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Blue Train</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Boksburg</td>
-    <td class="tg-0pky">R 670.00</td>
-    <td class="tg-0pky">R 670.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 900.00</td>
+    <td>Boksburg</td>
+    <td>R 670.00</td>
+    <td>R 670.00</td>
+    <td>R 750.00</td>
+    <td>R 900.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Booysens JHB</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Booysens JHB</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Bosman Station</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Bosman Station</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Braamfontein</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Braamfontein</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Brightwater Common</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Brightwater Common</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Bronkhorstpruit</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Bronkhorstpruit</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Brooklyn</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Brooklyn</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Bruma</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Bruma</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Brumeria</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Brumeria</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Brynston</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Brynston</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Centurion</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Centurion</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Clearwater Mall</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Clearwater Mall</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Clubview</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Clubview</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Colbyn</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Colbyn</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Constantia Park</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Constantia Park</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Cornwall Hill</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Cornwall Hill</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Craighall Park</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Craighall Park</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Cresta</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00 </td>
+    <td>Cresta</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">CSIR</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>CSIR</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Cullinan</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
+    <td>Cullinan</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Dainfern</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Dainfern</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Delmas</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Delmas</td>
+    <td>R 750.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Die Hoewes</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Die Hoewes</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Die Wilgers</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Die Wilgers</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Dorinkloof</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Dorinkloof</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Dunkeld</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Dunkeld</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Eastgate</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Eastgate</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Eastrand Mall</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Eastrand Mall</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Edenvale</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Edenvale</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Eldoraigne</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Eldoraigne</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Eldorette</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Eldorette</td>
+    <td>R 350.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ellis Park</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1050.00</td>
+    <td>Ellis Park</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 850.00</td>
+    <td>R 1050.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Emperors Palace</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Emperors Palace</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Entabeni/ Waterberg</td>
-    <td class="tg-0pky">R 2500.00</td>
-    <td class="tg-0pky">R 2500.00</td>
-    <td class="tg-0pky">R 3500.00</td>
-    <td class="tg-0pky">R 3950.00</td>
+    <td>Entabeni/ Waterberg</td>
+    <td>R 2500.00</td>
+    <td>R 2500.00</td>
+    <td>R 3500.00</td>
+    <td>R 3950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Equestria</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Equestria</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Erasmia</td>
-    <td class="tg-0pky">R 420.00</td>
-    <td class="tg-0pky">R 420.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Erasmia</td>
+    <td>R 420.00</td>
+    <td>R 420.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Faerie Glen</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Faerie Glen</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Fairlands</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Fairlands</td>
+    <td>R 750.00</td>
+    <td>R 750.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Florida</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Florida</td>
+    <td>R 750.00</td>
+    <td>R 750.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ford Watloo</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Ford Watloo</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Fourways</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 880.00</td>
+    <td>Fourways</td>
+    <td>R 500.00</td>
+    <td>R 600.00</td>
+    <td>R 700.00</td>
+    <td>R 880.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Garankuwa</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Garankuwa</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Garsfontein</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Garsfontein</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Germiston</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Germiston</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Gezina</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Gezina</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Gold Reef City</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Gold Reef City</td>
+    <td>R 700.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Grand Central</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Grand Central</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Groenkloof</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Groenkloof</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hammanskraal</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Hammanskraal</td>
+    <td>R 550.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Harttebeedspoort Dam</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Harttebeedspoort Dam</td>
+    <td>R 700.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hatfield</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Hatfield</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hatfield Station</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Hatfield Station</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hillbrow</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Hillbrow</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hyde Park</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Hyde Park</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Illovo</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Illovo</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Irene</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Irene</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Isando</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Isando</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Jet Park</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Jet Park</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">JHB CBD</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>JHB CBD</td>
+    <td>R 600.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kayalami</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Kayalami</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kloofsig</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Kloofsig</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kolonade</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Kolonade</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kosmosdal</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Kosmosdal</td>
+    <td>R 350.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Krugersdorp</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Krugersdorp</td>
+    <td>R 700.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Lanseria</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Lanseria</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Laudium</td>
-    <td class="tg-0pky">R 370.00</td>
-    <td class="tg-0pky">R 370.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Laudium</td>
+    <td>R 370.00</td>
+    <td>R 370.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Lenasia</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
-    <td class="tg-0pky">R 1250.00</td>
+    <td>Lenasia</td>
+    <td>R 850.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
+    <td>R 1250.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Lonehill</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Lonehill</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Lynwood</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Lynwood</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Lynwood Ridge</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Lynwood Ridge</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Lyttleton Manor</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Lyttleton Manor</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mabopane</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 600.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Mabopane</td>
+    <td>R 600.00</td>
+    <td>R 600.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Magaliesburg</td>
-    <td class="tg-0pky">R 900.00</td>
-    <td class="tg-0pky">R 900.00</td>
-    <td class="tg-0pky">R 1050.00</td>
-    <td class="tg-0pky">R 1250.00</td>
+    <td>Magaliesburg</td>
+    <td>R 900.00</td>
+    <td>R 900.00</td>
+    <td>R 1050.00</td>
+    <td>R 1250.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Magalieskruin</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Magalieskruin</td>
+    <td>R 350.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mall Of Africa</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
+    <td>Mall Of Africa</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mamelodi</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 650.00</td>
+    <td>Mamelodi</td>
+    <td>R 400.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
+    <td>R 650.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Maropeng</td>
-    <td class="tg-0pky">R 950.00</td>
-    <td class="tg-0pky">R 950.00</td>
-    <td class="tg-0pky">R 1150.00</td>
-    <td class="tg-0pky">R 1350.00</td>
+    <td>Maropeng</td>
+    <td>R 950.00</td>
+    <td>R 950.00</td>
+    <td>R 1150.00</td>
+    <td>R 1350.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mayville</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Mayville</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Menlo Park</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Menlo Park</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Menlyn</td>
-    <td class="tg-0pky">R 100.00</td>
-    <td class="tg-0pky">R 100.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Menlyn</td>
+    <td>R 100.00</td>
+    <td>R 100.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Menlyn Park</td>
-    <td class="tg-0pky">R 100.00</td>
-    <td class="tg-0pky">R 100.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
+    <td>Menlyn Park</td>
+    <td>R 100.00</td>
+    <td>R 100.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Meyerton</td>
-    <td class="tg-0pky">R 1140.00</td>
-    <td class="tg-0pky">R 1140.00</td>
-    <td class="tg-0pky">R 1300.00</td>
-    <td class="tg-0pky">R 1500.00</td>
+    <td>Meyerton</td>
+    <td>R 1140.00</td>
+    <td>R 1140.00</td>
+    <td>R 1300.00</td>
+    <td>R 1500.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Meyerspark</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Meyerspark</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Midrand</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Midrand</td>
+    <td>R 400.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Millpark</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Millpark</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Modderfontein</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Modderfontein</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Montana</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Montana</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Monte Casino</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 850.00</td>
+    <td>Monte Casino</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 850.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Monument Park</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Monument Park</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mooikloof</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Mooikloof</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Molereta Park</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Molereta Park</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Morning Side</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R '650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Morning Side</td>
+    <td>R 650.00</td>
+    <td>R '650.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Muldersdrift </td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00 </td>
-    <td class="tg-0pky">R 850.00 </td>
-    <td class="tg-0pky">R 1150.00 </td>
+    <td>Muldersdrift </td>
+    <td>R 650.00</td>
+    <td>R 650.00 </td>
+    <td>R 850.00 </td>
+    <td>R 1150.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Murrayfield</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00 </td>
-    <td class="tg-0pky">R 350.00 </td>
-    <td class="tg-0pky">R 450.00 </td>
+    <td>Murrayfield</td>
+    <td>R 200.00</td>
+    <td>R 200.00 </td>
+    <td>R 350.00 </td>
+    <td>R 450.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Narsec</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 850.00 </td>
-    <td class="tg-0pky">R 950.00 </td>
-    <td class="tg-0pky">R 1250.00 </td>
+    <td>Narsec</td>
+    <td>R 850.00</td>
+    <td>R 850.00 </td>
+    <td>R 950.00 </td>
+    <td>R 1250.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Newlands PTA </td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00 </td>
-    <td class="tg-0pky">R 350.00 </td>
-    <td class="tg-0pky">R 450.00 </td>
+    <td>Newlands PTA </td>
+    <td>R 200.00</td>
+    <td>R 200.00 </td>
+    <td>R 350.00 </td>
+    <td>R 450.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Northcliff</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00 </td>
-    <td class="tg-0pky">R 850.00 </td>
-    <td class="tg-0pky">R 1150.00 </td>
+    <td>Northcliff</td>
+    <td>R 650.00</td>
+    <td>R 650.00 </td>
+    <td>R 850.00 </td>
+    <td>R 1150.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Observatory</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00 </td>
-    <td class="tg-0pky">R 850.00 </td>
-    <td class="tg-0pky">R 1150.00 </td>
+    <td>Observatory</td>
+    <td>R 650.00</td>
+    <td>R 650.00 </td>
+    <td>R 850.00 </td>
+    <td>R 1150.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Olifantsfontein</td>
-    <td class="tg-0pky">R 500.00</td>
-    <td class="tg-0pky">R 500.00 </td>
-    <td class="tg-0pky">R 750.00 </td>
-    <td class="tg-0pky">R 950.00 </td>
+    <td>Olifantsfontein</td>
+    <td>R 500.00</td>
+    <td>R 500.00 </td>
+    <td>R 750.00 </td>
+    <td>R 950.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Onderstepoort</td>
-    <td class="tg-0pky">R 500.00</td>
-    <td class="tg-0pky">R 500.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00 </td>
+    <td>Onderstepoort</td>
+    <td>R 500.00</td>
+    <td>R 500.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Orange Farm</td>
-    <td class="tg-0pky">R 1100.00</td>
-    <td class="tg-0pky">R 1100.00</td>
-    <td class="tg-0pky">R 1250.00</td>
-    <td class="tg-0pky">R 1450.00</td>
+    <td>Orange Farm</td>
+    <td>R 1100.00</td>
+    <td>R 1100.00</td>
+    <td>R 1250.00</td>
+    <td>R 1450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Orange Grove</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Orange Grove</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Orchards</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Orchards</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Oriental Plaza</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Oriental Plaza</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Park Station</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Park Station</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Parktown</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Parktown</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Parkview</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Parkview</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pelindaba</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Pelindaba</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pierre Van Ryneveld</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pierre Van Ryneveld</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pilansburg</td>
-    <td class="tg-0pky">R 2150.00</td>
-    <td class="tg-0pky">R 2150.00</td>
-    <td class="tg-0pky">R 2950.00</td>
-    <td class="tg-0pky">R 3550.00</td>
+    <td>Pilansburg</td>
+    <td>R 2150.00</td>
+    <td>R 2150.00</td>
+    <td>R 2950.00</td>
+    <td>R 3550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pretoria Academic</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pretoria Academic</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pretoria CBD</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pretoria CBD</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pretoria Central</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pretoria Central</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pretoria Gardens</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pretoria Gardens</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pretoia North</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pretoia North</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pretoria West</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pretoria West</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pretorius Park</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Pretorius Park</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Queenswood</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Queenswood</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Rand Airport</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Rand Airport</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Randburg CBD</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Randburg CBD</td>
+    <td>R 550.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ritfontein</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Ritfontein</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Riviera</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Riviera</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Rivonia</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Rivonia</td>
+    <td>R 550.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Roodeplaat</td>
-    <td class="tg-0pky">R 300.00 </td>
-    <td class="tg-0pky">R 11 300.00</td>
-    <td class="tg-0pky"> R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Roodeplaat</td>
+    <td>R 300.00 </td>
+    <td>R 11 300.00</td>
+    <td> R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Roodepoort</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Roodepoort</td>
+    <td>R 750.00</td>
+    <td>R 750.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Roodepooer CBD</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Roodepooer CBD</td>
+    <td>R 750.00</td>
+    <td>R 750.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Rooihuiskraal</td>
-    <td class="tg-0pky">R 400.00</td>
-    <td class="tg-0pky">R 400.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Rooihuiskraal</td>
+    <td>R 400.00</td>
+    <td>R 400.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Rosebank</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 65a0</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Rosebank</td>
+    <td>R 650.00</td>
+    <td>R 65a0</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Rosslyn</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
-    <td class="tg-0pky">R 550.00</td>
+    <td>Rosslyn</td>
+    <td>R 350.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
+    <td>R 550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Rovos Rail</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Rovos Rail</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sandton</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Sandton</td>
+    <td>R 500.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sandton CBD</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Sandton CBD</td>
+    <td>R 500.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Silver Lake</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Silver Lake</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Silver Oaks</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Silver Oaks</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Silverton</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Silverton</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Soccer City</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1150.00</td>
+    <td>Soccer City</td>
+    <td>R 650.00</td>
+    <td>R 650.00</td>
+    <td>R 850.00</td>
+    <td>R 1150.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Soshanguve</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 650.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Soshanguve</td>
+    <td>R 600.00</td>
+    <td>R 650.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Soweto</td>
-    <td class="tg-0pky">R 900.00</td>
-    <td class="tg-0pky">R 900.00</td>
-    <td class="tg-0pky">R 1150.00</td>
-    <td class="tg-0pky">R 1450.00</td>
+    <td>Soweto</td>
+    <td>R 900.00</td>
+    <td>R 900.00</td>
+    <td>R 1150.00</td>
+    <td>R 1450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Springs</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1050.00</td>
+    <td>Springs</td>
+    <td>R 700.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
+    <td>R 1050.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sun City</td>
-    <td class="tg-0pky">R 2150.00</td>
-    <td class="tg-0pky">R 2150.00</td>
-    <td class="tg-0pky">R 2950.00</td>
-    <td class="tg-0pky">R 3550.00</td>
+    <td>Sun City</td>
+    <td>R 2150.00</td>
+    <td>R 2150.00</td>
+    <td>R 2950.00</td>
+    <td>R 3550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sunninghill</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 550.00</td>
-    <td class="tg-0pky">R 750.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Sunninghill</td>
+    <td>R 500.00</td>
+    <td>R 550.00</td>
+    <td>R 750.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sunnyside</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Sunnyside</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Swartkops</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Swartkops</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">The Grove Mall</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>The Grove Mall</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">The Orchards</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>The Orchards</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">The Reeds</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>The Reeds</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Theresapark</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Theresapark</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Turffontein</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 1050.00</td>
+    <td>Turffontein</td>
+    <td>R 700.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
+    <td>R 1050.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Union Buildings</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Union Buildings</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Valhalla</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Valhalla</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Valley Farm</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Valley Farm</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Vanderbijlpark</td>
-    <td class="tg-0pky">R 1200.00</td>
-    <td class="tg-0pky">R 1200.00</td>
-    <td class="tg-0pky">R 1550.00</td>
-    <td class="tg-0pky">R 1550.00</td>
+    <td>Vanderbijlpark</td>
+    <td>R 1200.00</td>
+    <td>R 1200.00</td>
+    <td>R 1550.00</td>
+    <td>R 1550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Vereeniging</td>
-    <td class="tg-0pky">R 1200.00</td>
-    <td class="tg-0pky">R 1200.00</td>
-    <td class="tg-0pky">R 1550.00</td>
-    <td class="tg-0pky">R 1550.00</td>
+    <td>Vereeniging</td>
+    <td>R 1200.00</td>
+    <td>R 1200.00</td>
+    <td>R 1550.00</td>
+    <td>R 1550.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Voortrekker Monument</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Voortrekker Monument</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Wapadrand</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Wapadrand</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Warmbath</td>
-    <td class="tg-0pky">R 1250.00</td>
-    <td class="tg-0pky">R 1250.00</td>
-    <td class="tg-0pky">R 1750.00</td>
-    <td class="tg-0pky">R 1950.00</td>
+    <td>Warmbath</td>
+    <td>R 1250.00</td>
+    <td>R 1250.00</td>
+    <td>R 1750.00</td>
+    <td>R 1950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Waterkloof</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 250.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Waterkloof</td>
+    <td>R 250.00</td>
+    <td>R 250.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Waverly</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Waverly</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">West Park PTA</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>West Park PTA</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Wierda Park</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 300.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Wierda Park</td>
+    <td>R 300.00</td>
+    <td>R 300.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Wilgeheuwel</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Wilgeheuwel</td>
+    <td>R 700.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Willowglen</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Willowglen</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Winchester</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 700.00</td>
-    <td class="tg-0pky">R 850.00</td>
-    <td class="tg-0pky">R 950.00</td>
+    <td>Winchester</td>
+    <td>R 700.00</td>
+    <td>R 700.00</td>
+    <td>R 850.00</td>
+    <td>R 950.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Wingate Wingate Park</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 200.00</td>
-    <td class="tg-0pky">R 350.00</td>
-    <td class="tg-0pky">R 450.00</td>
+    <td>Wingate Wingate Park</td>
+    <td>R 200.00</td>
+    <td>R 200.00</td>
+    <td>R 350.00</td>
+    <td>R 450.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Wonderboom</td>
-    <td class="tg-0pky"> R 300,00 </td>
-    <td class="tg-0pky"> R 300,00 </td>
-    <td class="tg-0pky"> R 350,00 </td>
-    <td class="tg-0pky"> R 450,00 </td>
+    <td>Wonderboom</td>
+    <td> R 300,00 </td>
+    <td> R 300,00 </td>
+    <td> R 350,00 </td>
+    <td> R 450,00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Wonderboom AIRP</td>
-    <td class="tg-0pky"> R 350,00 </td>
-    <td class="tg-0pky"> R 350,00 </td>
-    <td class="tg-0pky"> R 450,00 </td>
-    <td class="tg-0pky"> R 550,00 </td>
+    <td>Wonderboom AIRP</td>
+    <td> R 350,00 </td>
+    <td> R 350,00 </td>
+    <td> R 450,00 </td>
+    <td> R 550,00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Wonderboom South</td>
-    <td class="tg-0pky"> R 350,00 </td>
-    <td class="tg-0pky"> R 350,00 </td>
-    <td class="tg-0pky"> R 450,00 </td>
-    <td class="tg-0pky"> R 550,00 </td>
+    <td>Wonderboom South</td>
+    <td> R 350,00 </td>
+    <td> R 350,00 </td>
+    <td> R 450,00 </td>
+    <td> R 550,00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Woodhill</td>
-    <td class="tg-0pky"> R 300,00 </td>
-    <td class="tg-0pky"> R 300,00 </td>
-    <td class="tg-0pky"> R 350,00 </td>
-    <td class="tg-0pky"> R 450,00 </td>
+    <td>Woodhill</td>
+    <td> R 300,00 </td>
+    <td> R 300,00 </td>
+    <td> R 350,00 </td>
+    <td> R 450,00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Woodmead</td>
-    <td class="tg-0pky"> R 550,00 </td>
-    <td class="tg-0pky"> R 550,00 </td>
-    <td class="tg-0pky"> R 750,00 </td>
-    <td class="tg-0pky"> R 950,00 </td>
+    <td>Woodmead</td>
+    <td> R 500,00 </td>
+    <td> R 550,00 </td>
+    <td> R 750,00 </td>
+    <td> R 950,00 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">World &amp; Lynwood</td>
-    <td class="tg-0pky"> R 250,00 </td>
-    <td class="tg-0pky"> R 250,00 </td>
-    <td class="tg-0pky"> R 350,00 </td>
-    <td class="tg-0pky"> R 450,00 </td>
+    <td>World &amp; Lynwood</td>
+    <td> R 250,00 </td>
+    <td> R 250,00 </td>
+    <td> R 350,00 </td>
+    <td> R 450,00 </td>
   </tr>
   <tr>
-    <td class="tg-0lax">Wynberg</td>
-    <td class="tg-0lax"> R 450,00 </td>
-    <td class="tg-0lax"> R 450,00 </td>
-    <td class="tg-0lax"> R 750,00 </td>
-    <td class="tg-0lax"> R 950,00 </td>
+    <td>Wynberg</td>
+    <td> R 450,00 </td>
+    <td> R 450,00 </td>
+    <td> R 750,00 </td>
+    <td> R 950,00 </td>
   </tr>
+  
 </table>
 
 
