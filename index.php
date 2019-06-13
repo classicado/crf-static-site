@@ -19,7 +19,7 @@
     </ol>
     <div class="carousel-inner" role="listbox">
       <!-- Slide One - Set the background image for this slide in the line below -->
-      <div class="carousel-item active" style="background-image: url('./images/Ford_Focus.png')">
+      <div class="carousel-item active" style="background-image: url('./images/Ford_Focus.jpg')">
         <div class="carousel-caption d-none d-md-block">
           <h2 class="display-4 wow fadeInLeftBig">Point To Point</h2>
           <p class="lead wow fadeInRightBig">
