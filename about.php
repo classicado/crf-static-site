@@ -33,6 +33,11 @@
 		<br>All of our sedan have 5 passenger liability insurance , we offer a risk-free and convenient service that puts the well-being of our guests first.
 				
 	</p>
+
+
+	<p>
+		<img src="./images/team.jpg" height="100%" width="auto">
+	</p>
 </div>
 
 <?php include("includes/footer.php");?>

@@ -16,7 +16,10 @@
 	  </li>
     <li class="nav-item">
       <a class="nav-link <?php if ($CURRENT_PAGE == "Dynamic Rates") {?>active<?php }?>" href="dynamic-rates.php">Dynamic Rates</a>
-    </li>     
+    </li> 
+    <li class="nav-item">
+      <a class="nav-link <?php if ($CURRENT_PAGE == "About") {?>active<?php }?>" href="about.php">Team</a>
+    </li>      
 	  <li class="nav-item">
 	    <a class="nav-link <?php if ($CURRENT_PAGE == "About") {?>active<?php }?>" href="about.php">About Us</a>
 	  </li>  
