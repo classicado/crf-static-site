@@ -79,8 +79,8 @@
   <tr>
     <th class="tg-0pky"></th>
     <th class="tg-0pky">Standard Sedans</th>
-    <th class="tg-0pky">Luxury  Sedans</th>
-    <th class="tg-0pky">Micro bus </th>
+    <th class="tg-0pky">VIP Sedans</th>
+    <th class="tg-0pky">Mini Bus </th>
     <th class="tg-0pky">Taxi</th>
   </tr>
   <tr class="small">
